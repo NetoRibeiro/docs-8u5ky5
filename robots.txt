@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-7b0ii4.bells.net/sitemap.xml
